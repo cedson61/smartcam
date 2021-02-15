@@ -11,6 +11,7 @@
 		7D3772C825D9C73400301C92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3772C725D9C73400301C92 /* ContentView.swift */; };
 		7D3772CA25D9C73500301C92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D3772C925D9C73500301C92 /* Assets.xcassets */; };
 		7D3772CD25D9C73500301C92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D3772CC25D9C73500301C92 /* Preview Assets.xcassets */; };
+		7D3772D625D9CDF600301C92 /* CameraUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3772D525D9CDF600301C92 /* CameraUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		7D3772C925D9C73500301C92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D3772CC25D9C73500301C92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7D3772CE25D9C73500301C92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D3772D525D9CDF600301C92 /* CameraUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				7D3772C525D9C73400301C92 /* smartcamApp.swift */,
 				7D3772C725D9C73400301C92 /* ContentView.swift */,
+				7D3772D525D9CDF600301C92 /* CameraUIView.swift */,
 				7D3772C925D9C73500301C92 /* Assets.xcassets */,
 				7D3772CE25D9C73500301C92 /* Info.plist */,
 				7D3772CB25D9C73500301C92 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D3772D625D9CDF600301C92 /* CameraUIView.swift in Sources */,
 				7D3772C825D9C73400301C92 /* ContentView.swift in Sources */,
 				7D3772C625D9C73400301C92 /* smartcamApp.swift in Sources */,
 			);
